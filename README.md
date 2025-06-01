@@ -7,4 +7,5 @@ Nela você conseguirá de forma fácil:
 - listar todos os recebimentos de diferentes fontes.
 
 Para usar, basta abrir e baixar o arquivo Organizador Declaração imposto de renda.xlsx
+
 Bom proveito!
