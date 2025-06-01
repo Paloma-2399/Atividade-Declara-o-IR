@@ -5,5 +5,6 @@ Nela você conseguirá de forma fácil:
 - Informar seus dados pessoais;
 - Inserir um resumo dos informes bancários que estão sendo enviados;
 - listar todos os recebimentos de diferentes fontes.
+
 Para usar, basta abrir e baixar o arquivo Organizador Declaração imposto de renda.xlsx
 Bom proveito!
